@@ -35,3 +35,7 @@ installers. VST3 on Windows (64-bit); VST3 and AU on macOS 11 or later (Apple si
 
 Not made or endorsed by Korg. RADIAS is a trademark of Korg Inc.
 
+<img width="2142" height="1296" alt="Raydius screen 095 140pr prg" src="https://github.com/user-attachments/assets/336e9574-c75d-43a8-b590-5d62c30cf4a9" />
+<img width="2142" height="1296" alt="Raydius screen 095 140pr seq" src="https://github.com/user-attachments/assets/a0b478f2-4b72-4895-a76a-a9d1dd05a9a3" />
+<img width="2142" height="1296" alt="Raydius screen 095 140pr fx" src="https://github.com/user-attachments/assets/d3889199-b9c8-435f-a03c-1d4a03935a4f" />
+<img width="2142" height="1296" alt="Raydius screen 095 140pr mod" src="https://github.com/user-attachments/assets/e78f91cc-b750-4899-99e3-0e6622040cb0" />
