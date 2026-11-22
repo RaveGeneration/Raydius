@@ -17,7 +17,10 @@ installers. VST3 on Windows (64-bit); VST3 and AU on macOS 11 or later (Apple si
 
 - **Every parameter on the panel.** Sound, modulation, effects, arpeggiator, step sequencers and vocoder, each on
   its own page; the four timbres one click apart.
-- **Copy, swap and init timbres.** Copy one timbre over another, swap two, or start one from scratch.
+- **Copy, swap and init timbres.** Copy one timbre over another, also from another program, swap two, or start
+  one from scratch.
+- **Audio input.** Send audio from your DAW into Raydius and play it through the vocoder, or through a timbre's
+  filters and effects, as with the RADIAS's audio inputs.
 - **The factory programs and your own.** The 256 factory programs, plus your own .syx and .rdl files: drop one on
   the program page or use its LOAD button. They stay in 256 user places.
 - **Your edits are kept.** A project brings back the program as you left it, step data included.
