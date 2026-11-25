@@ -11,7 +11,7 @@ sequencers and a 16-band vocoder. Every parameter sits on our own panel, over ni
 ## Download
 
 **[Raydius for Windows and macOS](https://files.re-style.nl/api/free.php?p=raydius)**: one zip with both
-installers and the changelog. VST3 on Windows (64-bit); VST3 and AU on macOS 11 or later (Apple silicon and Intel).
+installers and the [changelog](CHANGELOG.md). VST3 on Windows (64-bit); VST3 and AU on macOS 11 or later (Apple silicon and Intel).
 
 ## The plugin
 
@@ -41,6 +41,9 @@ installers and the changelog. VST3 on Windows (64-bit); VST3 and AU on macOS 11 
    (No such folder yet? Make it, or load Raydius once and it makes it.)
 4. Load Raydius. The first start takes a little longer. If a file is missing, Raydius says so on its screen.
 
+Own a RADIAS? The DWGS waves and drum kits need its wave memory. The zip has a small kit (Raydius PCM Dump Kit) that
+copies it from your own unit.
+
 Not made or endorsed by Korg. RADIAS is a trademark of Korg Inc.
 
 <img width="2142" height="1296" alt="Raydius 2 programs" src="https://github.com/user-attachments/assets/55c1ae17-d283-444d-ad03-c2e41b2b8952" />
@@ -49,7 +52,3 @@ Not made or endorsed by Korg. RADIAS is a trademark of Korg Inc.
 <img width="2142" height="1296" alt="Raydius 5 tempo" src="https://github.com/user-attachments/assets/8b014b90-e83c-47bc-854b-140076f5ef2c" />
 <img width="2142" height="1296" alt="Raydius 6 steps" src="https://github.com/user-attachments/assets/32dbf95b-6bb3-4eea-a652-fb96d5d24d45" />
 <img width="2142" height="1296" alt="Raydius 7 vocoder" src="https://github.com/user-attachments/assets/52d78860-c259-4b10-bee5-ffb960ff394b" />
-
-
-
-
