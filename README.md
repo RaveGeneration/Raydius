@@ -13,6 +13,8 @@ sequencers and a 16-band vocoder. Every parameter sits on our own panel, over ni
 **[Raydius for Windows and macOS](https://files.re-style.nl/api/free.php?p=raydius)**: one zip with both
 installers and the [changelog](CHANGELOG.md). VST3 on Windows (64-bit); VST3 and AU on macOS 11 or later (Apple silicon and Intel).
 
+Public beta: the download asks for an access code. You get one there by e-mail, free.
+
 ## The plugin
 
 - **Every parameter on the panel.** Sound, modulation, effects, arpeggiator, step sequencers and vocoder, each on
