@@ -1,5 +1,19 @@
 # Changelog
 
+## 1.0.0 (2026-11-26)
+
+### New
+
+- Side chain input. Studio One and Logic send audio into an instrument only through its side chain, so the vocoder and the Audio In programs (N15, O01..O16) could not hear your voice there. Raydius now listens to its side chain as well as to its normal audio input. Studio One: choose the track with your voice in the Sidechain menu at the top of the Raydius window. Logic: choose it in the Side Chain menu at the top right of the plug-in window. Then play notes.
+
+### Fixed
+
+- Long names in the menu boxes, such as FLT1 RESONANCE in the PATCH Destination boxes, no longer run past the edge of the box.
+
+### Unchanged
+
+- All factory programs sound as in 0.9.8, and the normal audio input works as before (checked sample for sample).
+
 ## 0.9.8 (2026-11-25)
 
 ### Fixed

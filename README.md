@@ -13,7 +13,7 @@ sequencers and a 16-band vocoder. Every parameter sits on our own panel, over ni
 **[Raydius for Windows and macOS](https://files.re-style.nl/api/free.php?p=raydius)**: one zip with both
 installers and the [changelog](CHANGELOG.md). VST3 on Windows (64-bit); VST3 and AU on macOS 11 or later (Apple silicon and Intel).
 
-Public beta: the download asks for an access code. You get one there by e-mail, free.
+The download asks for an access code. You get one there by e-mail, free.
 
 ## The plugin
 
@@ -22,7 +22,9 @@ Public beta: the download asks for an access code. You get one there by e-mail, 
 - **Follows your DAW's tempo.** Switch on DAW under the Tempo knob: the arpeggiator, step and mod sequencers, synced
   LFOs and delays run at your DAW's tempo and stay on its beat, through tempo changes, loops and locates.
 - **Audio input.** Send audio from your DAW into Raydius and play it through the vocoder, or through a timbre's
-  filters and effects, as with the RADIAS's audio inputs. The envelope follower listens to it too.
+  filters and effects, as with the RADIAS's audio inputs. The envelope follower listens to it too. Raydius also
+  listens to its side chain, which is how Studio One and Logic send audio into an instrument: choose your audio track
+  in the side chain menu of the plug-in window.
 - **The factory programs and your own.** The 256 factory programs, plus your own .syx and .rdl files: drop one on
   the program page or use its LOAD button. They stay in 256 user places.
 - **Save your own sounds.** SAVE on the program page puts your sound in a user place and writes a .syx file, which you
