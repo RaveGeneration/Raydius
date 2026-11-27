@@ -1,5 +1,15 @@
 # Changelog
 
+## 1.0.1 (2026-11-27)
+
+### New
+
+- Export your user bank. EXPORT BANK on the PROGRAM LIST page writes all your user programs (U-A01 to U-P16, as the USER list shows them) into one .syx file, in the folder Exported Banks (Documents, Rave Generation, Raydius, Data). Share it as one file: Raydius loads it with LOAD or a drop, and a RADIAS takes it too, each program in its own place.
+
+### Unchanged
+
+- All factory programs sound as in 1.0.0, the audio input and side chain too (checked sample for sample).
+
 ## 1.0.0 (2026-11-26)
 
 ### New
